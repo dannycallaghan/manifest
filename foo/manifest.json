@@ -1,11 +1,11 @@
 {
     "name": "tillr",
     "short_name": "tillr",
+    "background_color": "#FD7300",
+    "theme_color": "#333333",
     "start_url": "/",
     "display": "standalone",
     "orientation": "portrait",
-    "background_color": "#fd7300",
-    "theme_color": "#333333",
     "icons": [
         {
             "src": "16x16.png",
